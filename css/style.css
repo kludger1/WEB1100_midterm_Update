@@ -15,3 +15,33 @@ header img{
 }
 
 /* test */
+
+.results{
+  display: flex;
+  flex-wrap:wrap;
+
+  
+}
+.box{
+  
+  min-width: auto;
+  max-width: auto;
+  border: 1px solid black;
+  margin: 30px;
+  padding: 20px;
+  
+}
+.par {
+  text-align: justify;
+  min-height: 3%;
+  max-height: 3%;
+}
+
+.box img{
+  min-width: auto;
+ max-width: auto;
+ min-height: 20vw;
+ max-height: 20vw;
+  margin: 0px;
+  padding: 20px;
+}
